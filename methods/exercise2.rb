@@ -1,5 +1,4 @@
-=begin
-What do the following expressions evaluate to?
+=begin 
 
 1. x = 2
 
@@ -10,5 +9,9 @@ What do the following expressions evaluate to?
 4. four = "four"
 
 5. print something = "nothing"
+
+1 is nil
+
+2 is 
 =end
 
